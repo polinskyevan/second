@@ -1,0 +1,30 @@
+#wrapper{
+	width:900px;
+	height:100px;
+	background-color:#f00;
+	margin:0 auto;
+}
+
+#sectionWrapper{
+	width:900px;
+	margin:0 auto;
+}
+
+br{
+	clear:both;
+}
+
+.section{
+	width:448px;
+	height:200px;
+	background-color:#ddd;
+	border:solid 1px #000;
+	float:left;
+	
+}
+#footer{
+	width:900px;
+	height:50px;
+	background-color:#00a;
+	margin:0 auto;
+}

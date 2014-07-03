@@ -1,0 +1,40 @@
+#wrapper{ 
+	width:1400px;
+	height:100px;
+	background-color:#000;
+	margin:0 auto;
+	color:green;
+	text-align: left;
+}
+
+#sectionWrapper{
+	width:1400px;
+	margin:0 auto;
+}
+
+br{
+	clear:both;
+}
+
+.section{
+	width:1400px;
+	height:1100px;
+	background-color:purple;
+	border:solid 5px #purple;
+	color:green;
+	text-align: left;
+}
+#footer{
+	width:1400px;
+	height:100px;
+	background-color:green;
+	color:black;
+	margin:0 auto;
+}
+
+a{
+	color:green;
+	text-decoration: none;
+	font-weight:bold;
+	font-size: 200%;
+}
